@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b85dabd7-1e0f-4e16-a3b8-7cecf17c4102" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/algorithm/Snowflake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocketmq/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rocketmq/ConsumerInOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/springsercurity/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/talk/handler/TextWebSocketFrameHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/talk/handler/WebsocketChatServerInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/talk/main/WebsocketChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/WebsocketChatClient.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lRdk0yuxEht1L8Nv2tJ5FDRan0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../xf_SVN/filingcard" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.40635267" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.MailTest">
+    <configuration name="MailTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mail.MailTest" />
+      <module name="netty_talk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mail.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnewayProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rocketmq.OnewayProducer" />
+      <module name="netty_talk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocketmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rocketmq.Producer" />
+      <module name="netty_talk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rocketmq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Snowflake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.Snowflake" />
+      <module name="netty_talk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="talk.Test" />
+      <module name="netty_talk" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="talk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MailTest" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Snowflake" />
+        <item itemvalue="Application.OnewayProducer" />
+        <item itemvalue="Application.Producer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b85dabd7-1e0f-4e16-a3b8-7cecf17c4102" name="Default Changelist" comment="" />
+      <created>1607563978069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607563978069</updated>
+      <workItem from="1607563979337" duration="7736000" />
+      <workItem from="1607913879331" duration="744000" />
+      <workItem from="1607937781819" duration="2787000" />
+      <workItem from="1607995933633" duration="2447000" />
+      <workItem from="1608281213406" duration="2625000" />
+      <workItem from="1608889521822" duration="696000" />
+      <workItem from="1609117586793" duration="136000" />
+      <workItem from="1609121623672" duration="3461000" />
+      <workItem from="1609213738889" duration="10044000" />
+      <workItem from="1609376831273" duration="243000" />
+      <workItem from="1609392618309" duration="1679000" />
+      <workItem from="1609734353937" duration="1276000" />
+      <workItem from="1609823022820" duration="1329000" />
+      <workItem from="1609839146220" duration="805000" />
+      <workItem from="1609909940870" duration="10495000" />
+      <workItem from="1610082906631" duration="66000" />
+      <workItem from="1611815344818" duration="3150000" />
+      <workItem from="1611912353715" duration="996000" />
+      <workItem from="1612148118977" duration="146000" />
+      <workItem from="1614057354559" duration="2668000" />
+      <workItem from="1614064938837" duration="1054000" />
+      <workItem from="1614566733428" duration="1045000" />
+      <workItem from="1614821514652" duration="1031000" />
+      <workItem from="1615427629358" duration="84000" />
+      <workItem from="1617785254319" duration="67000" />
+      <workItem from="1618802481620" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1614059074618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614059074618" />
+    <state x="696" y="172" key="FileChooserDialogImpl" timestamp="1609921822136">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="696" y="172" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1609921822136" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1614065993808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614065993808" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1614065993808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614065993808" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1614065993808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614065993808" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1614065993808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614065993808" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1607998445955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607998445955" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1607998445955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607998445955" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1607998445955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607998445955" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1607998445955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607998445955" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1614566777336">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614566777336" />
+    <state x="490" y="154" width="561" height="524" key="StructurePopup" timestamp="1607566470507">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="154" width="561" height="524" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1607566470507" />
+    <state x="375" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1608283116626">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="375" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1608283116626" />
+    <state width="308" height="352" key="documentation.popup.size" timestamp="1607566309434">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="308" height="352" key="documentation.popup.size/0.0.1536.824@0.0.1536.824" timestamp="1607566309434" />
+    <state x="468" y="144" width="600" height="536" key="find.popup" timestamp="1609235893716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="144" width="600" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1609235893716" />
+    <state x="223" y="102" key="new project wizard" timestamp="1615427712615">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="102" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1615427712615" />
+    <state x="425" y="193" key="run.anything.popup" timestamp="1611816001866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="193" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1611816001866" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611815915606">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611815915606" />
+  </component>
+</project>
